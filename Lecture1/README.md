@@ -49,4 +49,4 @@ If there was no tensorflow (or other DL frameworks), we'd have to write all of t
 
 
 
-**ps.: if you need any more help to understand better, feel free to contact.
+**ps.: if you need any more help to understand better, feel free to contact.**
