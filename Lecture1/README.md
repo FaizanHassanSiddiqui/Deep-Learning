@@ -20,6 +20,8 @@ where, **'m'** is the **gradient** and **'c'** is the **y-intercept**.
 
 In the notebook, we use this equation as **y = wx + b** to emphasize the context; **'w'** for **weights** and **'b'** for **bias**. Weights and Bias are collectively referred to as **parameters**.  These are learnt by the model during training.
 
+Also, you should know a litte linear algebra (atleast matrix algebra), some statistics, and optimization theory and all that it takes to learn these subjects if you want to learn how artificial neural networks work in great depth. This is not covered here.  
+
 
 ## To understand code:
 
@@ -29,7 +31,7 @@ In the notebook, we use this equation as **y = wx + b** to emphasize the context
 
 * Tensorflow 2.0 is a must. 
 
-### Training Described
+### Code Description
 
 If you want to know linear regression using machine learning, skip to part 2. Though, part 1 helps to see what goes under the hood in a linear regression problem. 
 
