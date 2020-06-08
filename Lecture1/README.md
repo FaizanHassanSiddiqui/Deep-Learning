@@ -1,3 +1,3 @@
-# Univariate Linear Regression
+# Simple Linear Regression
 
-This lecture is on univariate linear regression.
+This lecture is on simple linear regression.
