@@ -31,6 +31,8 @@ In the notebook, we use this equation as **y = wx + b** to emphasize the context
 
 ### Training Described
 
+If you want to know linear regression using machine learning, skip to part 2. Though, part 1 helps to see what goes under the hood in a linear regression problem. 
+
 #### part 1
 First we read the data from a .csv file. The data has sample of height and weight of ten-thousand people. The relationship between height and weight is quite obvious. They are directly proportional to each other in general; meaning if a person is taller, he is likely to have more weight. For our example, we treat height as the independent variable (explanatory variable) and weight as the independent variable (response variable). Note, there is a subtle difference between independent variable and expalanatory variable. But in our case, we can use the terms interchangeably. 
 
