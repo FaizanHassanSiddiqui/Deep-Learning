@@ -13,8 +13,7 @@ Other types of regression are:
 ## Mathematical Knowledge Required
 
 Mathematical knowledge required to understand linear regression includes very basic knowedge about coordinate geometry. You should know how to form equation of a straight line. Below is the general standard form of equation of a straight line: 
-
-<center>**y = mx + c**</center> 
+<p style="text-align: center;">**y = mx + c**</p>
 
 
 ## To understand code:
