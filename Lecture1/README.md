@@ -1,5 +1,7 @@
 # Simple Linear Regression
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
 This lecture is on simple linear regression (one explanatory variable and one response variable). 
 
 Other types of regression are:
