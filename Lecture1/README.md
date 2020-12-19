@@ -1,6 +1,6 @@
 # Simple Linear Regression
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/FaizanHassanSiddiqui/Deep-Learning/blob/master/Lecture1/Class1%20(simple%20linear%20regression).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FaizanHassanSiddiqui/Deep-Learning/blob/master/Lecture1/Class1%20(simple%20linear%20regression).ipynb)
 
 This lecture is on simple linear regression (one explanatory variable and one response variable). 
 
